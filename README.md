@@ -12,7 +12,7 @@ This project is created with [Laravel Jetstream](https://jetstream.laravel.com/1
 
 ```
 # Clone the repository from GitHub and open the directory:
-git clone https://github.com/miten5/larawind.git
+git clone https://github.com/Syanty/laravel-tailwindcss-boilerplate.git
 
 # cd into your project directory
 cd larawind
@@ -31,7 +31,6 @@ php artisan storage:link
 php artisan serve
 
 ```
-If you like my work [Buy me a coffee](https://www.buymeacoffee.com/miten5)
 
 ### Project made possible thanks to:
 
